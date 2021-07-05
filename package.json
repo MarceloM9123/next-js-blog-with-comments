@@ -14,14 +14,16 @@
     "@sanity/block-content-to-react": "2.0.7",
     "@sanity/client": "1.149.18",
     "@sanity/image-url": "0.140.19",
+    "@svgr/webpack": "^5.5.0",
     "classnames": "2.2.6",
     "date-fns": "2.15.0",
     "next": "latest",
+    "next-images": "^1.8.1",
+    "next-sanity": "^0.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hook-form": "^6.7.0",
-    "swr": "^0.2.3",
-    "next-sanity": "^0.1.5"
+    "swr": "^0.2.3"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.3.0",
